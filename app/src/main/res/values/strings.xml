@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomingScore</string>
+    <string name="score">Score:</string>
+</resources>
